@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @pgarrett-ai
-- 👀 I’m interested in creating stuff that learns
-- 🌱 I’m currently learning Agentic AI 
-- 💞️ I’m looking to collaborate on trading models
-- 📫 How to reach me: p garrett 08 @ gmail.com
+## I love building systems and bring data to life
 
-starting anew, don't mix profiles. 
+Markets are endlessly facinating and the best dataset ---> Please share any that you have!  [first section of username] 08 [at] gmail 
+
+### Currently working on:
+  - Special Situations Research Platform
+  - System to wrangle these 🤖
+
+### Backlog:
+  - Interactive 🌐 showing human migration patterns and coastline changes over the last 50k years
+
+Former chef @ a michelin :star: kitchen
 
 <!---
 pgarrett-ai/pgarrett-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
